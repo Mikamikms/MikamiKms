@@ -37,7 +37,7 @@
 
 - 👨‍⚕️ **ERP Médico** – Backend + Frontend con Laravel y Vue.js
 - 🤖 **IA para detección de cascos, neumonía y arándanos**
-- 📚 **Sistema de reserva de campos deportivos, spa, veterinarias, etc** Backend + Frontend con Laravel y Vue.js
+- 📚 **Sistema de reserva de campos deportivos, spa, veterinarias, etc** – Backend + Frontend con Laravel y Vue.js
   
 
 ---
