@@ -68,8 +68,8 @@
 ### 📫 Conéctate conmigo
 
 <p align="center">
-  <a href="mailto:ayrtoneneque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/elvis-eneque-898643199/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayrtoneneque@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elvis-eneque-898643199/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
