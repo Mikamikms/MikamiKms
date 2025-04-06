@@ -1,10 +1,6 @@
 <h1 align="center"><b>Hola, Soy Ayrton Eneque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="300" />
-</p>
-
-<p align="center">
   💻 Full Stack Developer | 🧠 Apasionado por la IA | 🍥 Fan del anime <br/>
   📍 Chiclayo, Perú
 </p>
@@ -47,10 +43,8 @@
 
 ### ⚡ Un poco más de mí
 
-- 🧑‍💻 Actualmente Full Stack Developer en IaHowertPi  
-- 🎓 Estudiando Ingeniería de Sistemas en UNPRG  
+- 🎓 Bachiller en Ingeniería de Sistemas
 - 🧠 En constante aprendizaje con Platzi, Udemy y más  
-- 🍜 Otaku orgulloso, fan del ramen y los shonen  
 - 🎮 Gamer ocasional y soñador de apps con propósito
 
 ---
@@ -65,7 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="250" />
-  <br/>
   <i>"No renuncio a mis palabras... ese es mi camino ninja!"</i> 🍃
 </p>
