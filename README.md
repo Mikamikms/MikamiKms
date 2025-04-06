@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Full Stack Developer | 🧠 Apasionado por la IA | 🍥 Fan del anime (Naruto por siempre) <br/>
+  💻 Full Stack Developer | 🧠 Apasionado por la IA | 🍥 Fan del anime <br/>
   📍 Chiclayo, Perú
 </p>
 
