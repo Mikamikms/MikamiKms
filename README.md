@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, Soy Ayrton Eneque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🧠 Apasionado por la IA | 🍥 Fan del anime <br/>
+  💻 Full Stack Developer | 🧠 Apasionado por la IA | 🎮 También me conocen como <b>Mikami</b> <br/>
   📍 Chiclayo, Perú
 </p>
 
@@ -37,7 +37,8 @@
 
 - 👨‍⚕️ **ERP Médico** – Backend + Frontend con Laravel y Vue.js
 - 🤖 **IA para detección de cascos, neumonía y arándanos**
-- 📚 **Sistema bibliográfico** en Java para la facultad de Derecho
+- 📚 **Sistema de reserva de campos deportivos, spa, veterinarias, etc** Backend + Frontend con Laravel y Vue.js
+  
 
 ---
 
