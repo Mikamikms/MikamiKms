@@ -48,6 +48,22 @@
 - 🎮 Gamer ocasional y soñador de apps con propósito
 
 ---
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://github.com/Mikamikms">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mikamikms&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Mikamikms">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mikamikms&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikamikms&theme=dark&hide_border=true"/>
+</p>
+
+---
 
 ### 📫 Conéctate conmigo
 
